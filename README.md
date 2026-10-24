@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science & Engineering from SRM University-AP
-- 🌱 Currently deepening expertise in **core Java** (OOP, DSA, backend development)
-- 💡 Passionate about building secure, full-stack applications and exploring intelligent systems
-- 🛠️ Skilled in Python, Django, Java, computer vision (YOLO models), and deployment
+- 🌱 Currently deepening expertise in **DATA ENGINEER** (DATABRICKS,APACHE AIRFLOW,PYSPARK,MICROSOFT FABRIC,DBT)
+- 💡 Passionate about developing scalable data architectures, analyzing complex datasets, and delivering actionable insights through intelligent, well‑structured data solutions.
+- 🛠️ Skilled in Python, Pandas, Postgresql,Power Bi,Excel,Java, computer vision (YOLO models), and deployment
 - 📚 Completed **Elements of AI** (2 ECTS credits) from University of Helsinki & MinnaLearn [](https://certificates.mooc.fi/validate/x0g20d5oink)
 - 🏆 Participated in **Jugaad Hacks Hackathon** (2024) by Ellenox & Founders of India [](https://www.linkedin.com/in/shaik-basheer-b69478241/details/certifications/)
 - 📝 Presented research papers as first author at international conferences (ICIECS-2025 & ICCCES-2026)
@@ -63,7 +63,7 @@
 ### 📫 Let's Connect
 - 📧 Email: [shaik.basheer.me@gmail.com]
 - 🔗 LinkedIn: [linkedin.com/in/shaik-basheer-b69478241](https://www.linkedin.com/in/shaik-basheer-b69478241/)
-- 🌐 Always open to collaboration on full-stack, Java, or AI/ML projects
+- 🌐 Always open to collaboration on data engineering, insight‑driven analytics, and full data lifecycle projects across domains like finance, healthcare, or retail.
 
 Thanks for visiting! Feel free to explore my repositories and reach out. 🚀
 
