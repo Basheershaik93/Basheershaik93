@@ -48,6 +48,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| Retail Sales Performance & Profitability Dashboard | Interactive Excel dashboard with PivotTables, slicers & KPI cards; found Technology is 60% of revenue at only 12.3% margin and a ₹1.3M profit gap in West Furniture | Excel, PivotTables, Slicers, GETPIVOTDATA, SUMIFS | [Repo](https://github.com/Basheershaik93/Retail-Sales-Performance-Profitability-Dashboard) |
 | Patient Data Management System | Secure full-stack app for hospital records, billing & insurance claims with role-based access & fraud detection | Django, Python, Bootstrap, SQLite | [Repo](https://github.com/Basheershaik93/Patient-Data-Management-System-using-Django) |
 | Real-Time Pothole Detection | YOLO-based system evaluating 5 models; YOLOv9-T best (0.73 mAP@0.5, 18–25 FPS on Jetson) | Python, YOLOv5–v10, OpenCV, NVIDIA Jetson | [Repo](https://github.com/Basheershaik93/real-time-pothole-detection-yolo) (Presented at ICIECS-2025) |
 | Car Accident Detection with Fuzzy Logic | Hybrid YOLOv8 + Faster R-CNN fused with fuzzy logic; improved to 90.3% mAP@0.5 | Python, YOLOv8, Faster R-CNN, Fuzzy Logic | [Repo & PDF](https://github.com/Basheershaik93/Enhancing-Car-Accident-Detection-A-Fuzzy-Logic-Based-Evaluation-of-Faster-R-CNN-and-YOLOv8) (Presented at ICCCES-2026) |
