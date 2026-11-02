@@ -48,6 +48,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| HR Employee Attrition Analysis & Retention What-If Model | Excel dashboard with conditional formatting, risk scoring & what-if analysis on 1,470 employees; found overtime staff leave at 30.5% vs 10.4%, first-2-year employees at 29.8% (vs 16.1% overall), and a retention plan that could prevent ~52 exits a year | Excel, Conditional Formatting, What-If Analysis, Goal Seek, COUNTIFS, AVERAGEIFS, INDEX/MATCH | [Repo](https://github.com/Basheershaik93/HR_ATTRITION_ANALYSIS) |
 | Retail Sales Performance & Profitability Dashboard | Interactive Excel dashboard with PivotTables, slicers & KPI cards; found Technology is 60% of revenue at only 12.3% margin and a ₹1.3M profit gap in West Furniture | Excel, PivotTables, Slicers, GETPIVOTDATA, SUMIFS | [Repo](https://github.com/Basheershaik93/Retail-Sales-Performance-Profitability-Dashboard) |
 | Patient Data Management System | Secure full-stack app for hospital records, billing & insurance claims with role-based access & fraud detection | Django, Python, Bootstrap, SQLite | [Repo](https://github.com/Basheershaik93/Patient-Data-Management-System-using-Django) |
 | Real-Time Pothole Detection | YOLO-based system evaluating 5 models; YOLOv9-T best (0.73 mAP@0.5, 18–25 FPS on Jetson) | Python, YOLOv5–v10, OpenCV, NVIDIA Jetson | [Repo](https://github.com/Basheershaik93/real-time-pothole-detection-yolo) (Presented at ICIECS-2025) |
